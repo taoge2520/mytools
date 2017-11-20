@@ -5,6 +5,7 @@ import (
 	"mytools/file"
 )
 
+//test
 func main() {
 	err := file.GetLine("./0.txt")
 	if err != nil {
